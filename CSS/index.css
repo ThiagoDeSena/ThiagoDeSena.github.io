@@ -35,21 +35,3 @@ a::before{
     height: 10px;
     margin-right: 10px;
 }
-
-.button1{
-    background-color: #F25A70;
-    display: inline-block;
-    width: 170px;
-    height: 60px;
-    margin-top: 418px;
-    margin-left: 181px;
-    line-height: 60px;
-    box-shadow: 5px 5px 0px black;
-    transition: transform 200ms linear;
-    align-items: center ;
-    padding-left: 20px;
-}
-
-.button1:hover{
-    transform: scale(1.08);
-}
