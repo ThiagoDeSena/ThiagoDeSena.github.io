@@ -9,3 +9,7 @@
     margin-bottom: 60px;
 }
 
+.section.-bgBlack{
+    background-color: #000;
+    border-bottom: 10px solid #F25A70;
+}
